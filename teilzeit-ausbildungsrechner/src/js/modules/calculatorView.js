@@ -1,6 +1,6 @@
 import { resetVollzeitMonateValidation } from "./input-validation.js";
-import userIcon from './src/assets/icons/user-time.svg';
-import infoIcon from './src/assets/icons/information.svg';
+import userIcon from '../../assets/icons/user-time.svg';
+import infoIcon from '../../assets/icons/information.svg';
 
 export function getFormInputs() {
     const selections = {};
