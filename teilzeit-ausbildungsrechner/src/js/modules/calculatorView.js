@@ -291,7 +291,7 @@ export function renderResults(data) {
     averageBox.classList.add("result-card-info-box");
 
     const icon = document.createElement("img");
-    icon.src = "./src/assets/icons/user-time.svg";
+    icon.src = "/assets/icons/user-time.svg";
     icon.alt = "Info Icon";
     icon.classList.add("info-icon");
 
@@ -331,7 +331,7 @@ export function renderResults(data) {
     earlyAdmissionBox.classList.add("result-card-info-box");
 
     const icon = document.createElement("img");
-    icon.src = "./src/assets/icons/information.svg";
+    icon.src = "/assets/icons/information.svg";
     icon.alt = "Info Icon";
     icon.classList.add("info-icon");
 
